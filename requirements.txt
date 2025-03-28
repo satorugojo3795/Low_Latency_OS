@@ -1,0 +1,8 @@
+build-essential
+nasm
+grub-pc-bin
+xorriso
+gcc-multilib
+g++-multilib
+make
+tree
